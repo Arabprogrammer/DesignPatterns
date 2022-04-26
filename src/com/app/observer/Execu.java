@@ -4,7 +4,7 @@ public class Execu {
 
 	public static void main(String[] args) {
 
-		Product phone = new Product("S8+",100);
+		Product phone = new Product("S8+");
 
 		Person bashir = new Person("Bashir");
 		Person ahmad = new Person("Ahmad");
